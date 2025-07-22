@@ -17,3 +17,15 @@ canonifyURLs = true
 
 [params.assets]
   disableFingerprinting = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/SimpleHarmonicMotion07"
+
+[[params.socialIcons]]
+name = "email"
+url = "hmshin070209@email.com"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/_simple_harmonic_motion/"
