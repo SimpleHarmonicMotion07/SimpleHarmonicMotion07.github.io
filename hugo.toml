@@ -11,6 +11,8 @@ canonifyURLs = true
   description = "My Blog"
   defaultTheme = "auto"
   ShowPostList = true
+  ShowTags = true
+
 
 [params.homeInfoParams]
   title = "Welcome!"
@@ -57,7 +59,7 @@ canonifyURLs = true
 
 [[params.socialIcons]]
   name = "email"
-  url = "hmshin070209@email.com"
+  url = "/email"
 
 [[params.socialIcons]]
   name = "instagram"
