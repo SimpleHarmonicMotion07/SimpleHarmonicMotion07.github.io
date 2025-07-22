@@ -9,6 +9,8 @@ publishDir = "docs"
   author = "SimpleHarmonicMotion"
   description = "My Blog"
   defaultTheme = "auto"
+  ShowPostList = true
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
