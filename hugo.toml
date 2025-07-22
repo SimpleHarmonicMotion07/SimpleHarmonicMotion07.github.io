@@ -27,6 +27,11 @@ canonifyURLs = true
   imageWidth = 120
   imageHeight = 120
   imageTitle = "profile image"
+  buttons = [
+    { name = "#RGS", url = "" },
+    { name = "#StarButterfly", url = "https://starvstheforcesofevil.fandom.com/wiki/Star_Butterfly" },
+    { name = "#Lulu", url = "https://www.leagueoflegends.com/en-us/champions/lulu/"},
+  ]
 
 [[menu.main]]
   name = "Posts"
@@ -55,15 +60,24 @@ canonifyURLs = true
 
 [[params.socialIcons]]
   name = "github"
+  title = "SimpleHarmonicMotion07"
   url = "https://github.com/SimpleHarmonicMotion07"
 
 [[params.socialIcons]]
   name = "email"
-  url = "/email"
+  title = "hmshin070209@gmail.com"
+  url = "/addresses"
 
 [[params.socialIcons]]
   name = "instagram"
+  title = "@_simple_harmonic_motion"
   url = "https://www.instagram.com/_simple_harmonic_motion/"
+
+[[params.socialIcons]]
+  name = "discord"
+  title =  "@SimpleHarmonicMotion07"
+  url = "/addresses"
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
