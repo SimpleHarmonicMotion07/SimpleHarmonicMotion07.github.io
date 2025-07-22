@@ -3,14 +3,14 @@ languageCode = "en-us"
 title = "SimpleHarmonicMotion"
 theme = "PaperMod"
 publishDir = "docs"
-
+relativeURLs = false
+canonifyURLs = true
 
 [params]
   author = "SimpleHarmonicMotion"
   description = "My Blog"
   defaultTheme = "auto"
   ShowPostList = true
-
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
