@@ -12,6 +12,7 @@ canonifyURLs = true
   defaultTheme = "auto"
   ShowPostList = true
   ShowTags = true
+  customCSS = ["css/extra.css"]
 
 
 [params.homeInfoParams]
@@ -22,15 +23,16 @@ canonifyURLs = true
 [params.profileMode]
   enabled = true
   title = "SimpleHarmonicMotion"
-  subtitle = "Hello, World!"
+  subtitle = "다이어트를 해야하지만 배가고파요 흐흑"
   imageUrl = "images/profile.png"
   imageWidth = 120
   imageHeight = 120
   imageTitle = "profile image"
   buttons = [
-    { name = "#RGS", url = "" },
-    { name = "#StarButterfly", url = "https://starvstheforcesofevil.fandom.com/wiki/Star_Butterfly" },
-    { name = "#Lulu", url = "https://www.leagueoflegends.com/en-us/champions/lulu/"},
+    { name = "#RGS", url = "", class = "btn-RGS" },
+    { name = "#StarButterfly", url = "https://starvstheforcesofevil.fandom.com/wiki/Star_Butterfly", class = "btn-StarButterfly" },
+    { name = "#Lulu", url = "https://www.leagueoflegends.com/en-us/champions/lulu/", class = "btn-Lulu"},
+    { name = "#Minecraft", url = "https://www.minecraft.net/ko-kr", class = "btn-Minecraft"},
   ]
 
 [[menu.main]]
@@ -52,11 +54,6 @@ canonifyURLs = true
   name = "About Me"
   url = "/about"
   weight = 4
-
-[[menu.main]]
-  name = "Profile"
-  url = "/profile"
-  weight = 5
 
 [[params.socialIcons]]
   name = "github"

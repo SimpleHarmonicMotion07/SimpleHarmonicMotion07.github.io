@@ -1,0 +1,25 @@
+/* 기본 버튼 스타일 (부드러운 전환) */
+.profile-buttons a {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* RGS 버튼 호버 효과 */
+.profile-buttons a.btn-RGS:hover {
+  background-color: #ff6b6b;  /* 빨간 계열 */
+  color: #ffffff;
+  border-color: #ff6b6b;
+}
+
+/* StarButterfly 버튼 호버 효과 */
+.profile-buttons a.btn-StarButterfly:hover {
+  background-color: #6bc8ff;  /* 하늘색 계열 */
+  color: #ffffff;
+  border-color: #6bc8ff;
+}
+
+/* Lulu 버튼 호버 효과 */
+.profile-buttons a.btn-Lulu:hover {
+  background-color: #b96bff;  /* 보라색 계열 */
+  color: #ffffff;
+  border-color: #b96bff;
+}
