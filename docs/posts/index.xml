@@ -6,28 +6,19 @@
     <description>Recent content in Posts on SimpleHarmonicMotion</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 17:19:55 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 00:51:32 +0900</lastBuildDate>
     <atom:link href="https://SimpleHarmonicMotion07.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>오성이</title>
-      <link>https://SimpleHarmonicMotion07.github.io/posts/five_star/</link>
-      <pubDate>Tue, 22 Jul 2025 17:19:55 +0900</pubDate>
-      <guid>https://SimpleHarmonicMotion07.github.io/posts/five_star/</guid>
-      <description>&lt;p&gt;오성ㅎㅇ&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>1st Post</title>
-      <link>https://SimpleHarmonicMotion07.github.io/posts/first_post/</link>
-      <pubDate>Tue, 22 Jul 2025 17:13:53 +0900</pubDate>
-      <guid>https://SimpleHarmonicMotion07.github.io/posts/first_post/</guid>
-      <description>&lt;p&gt;헬로우&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>post0</title>
       <link>https://SimpleHarmonicMotion07.github.io/posts/post0/</link>
-      <pubDate>Tue, 22 Jul 2025 15:23:32 +0900</pubDate>
+      <pubDate>Fri, 25 Jul 2025 00:51:32 +0900</pubDate>
       <guid>https://SimpleHarmonicMotion07.github.io/posts/post0/</guid>
-      <description></description>
+      <description>&lt;p&gt;이 사이트는&lt;br&gt;
+블로그 비슷한겁니다&lt;br&gt;
+깃허브 공부도 할 겸 만들어봤어요&lt;br&gt;
+여차하면 포트폴리오로 쓸수도있고&lt;br&gt;
+새벽 감성에 취해 뻘글 지르는 용도로 쓸 수도 있습니다&lt;/p&gt;
+&lt;p&gt;만드는건 hugo 썼어요 딸깍&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
