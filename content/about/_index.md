@@ -17,7 +17,7 @@ My name in Korean is Shin Hyun Min, which shares the same initials "SHM" as Simp
 
 ## 🎮 Games
 
-- League of Legend (룰루원챔)
+- League of Legends (룰루원챔)
 - Geometry Dash
 - Minecraft
 - Clash Royale
